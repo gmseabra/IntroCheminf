@@ -7,4 +7,4 @@ course "AI in Drug Design" at the Department of Medicinal Chemistry, UF.
 Updated to be used in Google Colab.
 
 Gustavo Seabra
-08/25/2025
+Last checked on 09/03/2026
